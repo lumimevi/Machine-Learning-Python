@@ -1,7 +1,7 @@
 # Machine-Learning-Python
 
 
- - **code worked on the platform Google Colaboratory**
+ - **Examples of machine learning, done on the Google Colaboratory platform **
  
      
       - Linear Regression One Variable
