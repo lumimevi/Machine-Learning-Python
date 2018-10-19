@@ -13,4 +13,9 @@
        - K Nearest Neighbors (KNN) for regression
         
        * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/K_Nearest_Neighbors_for_regression.ipynb)
+       
+       - Logistic Regression
+        * [Data_auto](https://github.com/lumimevi/Machine-Learning-Python/blob/master/auto.csv)
+        * [Data_admission](https://github.com/lumimevi/Machine-Learning-Python/blob/master/admissions.csv)
+        * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Logistic_regression.ipynb)
 
