@@ -18,4 +18,9 @@
         * [Data_auto](https://github.com/lumimevi/Machine-Learning-Python/blob/master/auto.csv)
         * [Data_admission](https://github.com/lumimevi/Machine-Learning-Python/blob/master/admissions.csv)
         * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Logistic_regression.ipynb)
+        
+      - Clustering
+        * [Data_114_congress](https://github.com/lumimevi/Machine-Learning-Python/blob/master/114_congress.csv)
+        * [Data_nba_2013](https://github.com/lumimevi/Machine-Learning-Python/blob/master/nba_2013.csv)
+        * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Clustering.ipynb)
 
