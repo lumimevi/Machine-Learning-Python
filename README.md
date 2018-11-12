@@ -25,6 +25,6 @@
         * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Clustering.ipynb)
         
        - Clustering com Dados da Cartola
-        * [Data_114_congress](Dados_Agregrados_Limpos)
-        * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Clustering_Cartola.ipynb)
+        
+         * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Clustering_Cartola.ipynb)
 
