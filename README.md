@@ -27,4 +27,9 @@
        - Clustering com Dados da Cartola
         
          * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Clustering_Cartola.ipynb)
+       
+       - Decision Trees
+        
+         * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Decision_Trees.ipynb)
+         * [Data](https://github.com/lumimevi/Machine-Learning-Python/blob/master/income.csv)
 
