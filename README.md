@@ -24,7 +24,7 @@
         * [Data_nba_2013](https://github.com/lumimevi/Machine-Learning-Python/blob/master/nba_2013.csv)
         * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Clustering.ipynb)
         
-       - Clustering com Dados da Cartola
+       - Clustering com Dados Cartola
         
          * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Clustering_Cartola.ipynb)
        
@@ -33,3 +33,7 @@
          * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Decision_Trees.ipynb)
          * [Data](https://github.com/lumimevi/Machine-Learning-Python/blob/master/income.csv)
 
+       - Decision Trees com Dados Cartola
+        
+         * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Classification_Decision_Tree%20(1).ipynb)
+      
