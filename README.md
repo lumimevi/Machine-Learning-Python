@@ -36,4 +36,11 @@
        - Decision Trees com Dados Cartola
         
          * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Classification_Decision_Tree%20(1).ipynb)
-      
+         
+          - Titanic-Kaggel
+        
+         * [Code](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Titanic_Machine_Learning_from_Disaster_with_RandomizedSearch%2C_KNN%2C_XGBoost%2C_AdaBoostClassifier%2C_CatBoost_and_VotingEnsemble.ipynb)
+   
+         
+         
+ 
