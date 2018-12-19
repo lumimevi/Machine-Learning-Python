@@ -43,11 +43,10 @@
          
          
        - Histopathologic Cancer Detection with Tensorflow Deep Learning
-               -Members:
-	         -Dhiego Souto Andrade
-	         -Patrick Cesar Alves Terrematte
-	         -Lourdes Milagros Mendoza Villavicencio
-   
+              - Members:
+	         - Dhiego Souto Andrade
+	         - Patrick Cesar Alves Terrematte
+	         - Lourdes Milagros Mendoza Villavicencio
         
          * [Code_50x50](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Histopathologic_Cancer_Detection_Dataset_1_50x50.ipynb)
          
