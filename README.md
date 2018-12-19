@@ -1,7 +1,7 @@
 # Machine-Learning-Python
 
 
--   **Examples of machine learning, done on the Google Colaboratory platform**
+-   **Examples of machine learning, with Google Colaboratory platform**
      
       - Linear Regression One Variable
         * [Data](https://github.com/lumimevi/Machine-Learning-Python/blob/master/Natal.csv)
